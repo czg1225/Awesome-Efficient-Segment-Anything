@@ -137,8 +137,3 @@ Jinqiao Wang \
 **Description:** Expedit-SAM is a method can speed up SAM without any training. This is achieved by a novel token clustering algorithm.
 ![SAM-LIGHTENING1](assets/Hourglass_transformer_framework.png)
 ![SAM-LIGHTENING2](assets/TokenClusterReconstruct_Details.png)
-
-
-git remote set-url origin https://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@github.com/czg1225/Awesome-Efficient-Segment-Anything.git
-
-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
