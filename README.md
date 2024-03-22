@@ -11,7 +11,7 @@ This repository provides a summary of those efficient segment anything models.
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️. Thanks.
 
 ## Updates
-* 🚀 **March 20, 2024**: Updated new related works before 20/03/2024 in this GitHub. 
+* 🚀 **March 22, 2024**: Updated new related works before 20/03/2024 in this GitHub. 
 
 ## Contents
 
